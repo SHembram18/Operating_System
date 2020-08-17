@@ -1,6 +1,7 @@
 /*
- * 	PROGRAM : CHECKING THE PERMISSION OF A FILE
- *
+ * 	PROGRAM : TO CHECK A FILE'S ACCESS RIGHTS 
+ *	FILE	: chkFilePerm.c
+ *	AUTHOR	: SANTOSH HEMBRAM
  */
 	
 	#include<stdio.h>
